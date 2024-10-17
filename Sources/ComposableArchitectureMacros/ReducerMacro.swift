@@ -3,6 +3,7 @@ import SwiftOperators
 import SwiftSyntax
 import SwiftSyntaxBuilder
 import SwiftSyntaxMacros
+import Foundation
 
 #if !canImport(SwiftSyntax600)
   import SwiftSyntaxMacroExpansion
